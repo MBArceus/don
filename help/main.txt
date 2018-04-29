@@ -1,0 +1,4 @@
+**List of Commands**
+*Each command must be preceded by the `{PREFIX}` prefix. To learn more about a command, including usage instructions, type in `{PREFIX}help <name of command>`.
+To include spaces in an argument, put that argument in quotation marks.
+Remember that all commands work in DMs as well!*

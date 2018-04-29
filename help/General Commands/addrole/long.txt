@@ -1,0 +1,3 @@
+Some of the channels in DR_EN are role-restricted to prevent the channel listing from getting too long or to allow members to "opt-in" to certain discussions. This command gives you one of those roles on demand.
+Usage is as follows: `{PREFIX}addrole [name of role]`.
+To see the list of open roles, use the `{PREFIX}openroles` command.

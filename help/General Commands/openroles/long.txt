@@ -1,0 +1,2 @@
+Some of the channels in DR_EN are role-restricted to prevent the channel listing from getting too long or to allow members to "opt-in" to certain discussions. This returns a list of those roles.
+This command calls for no arguments.
